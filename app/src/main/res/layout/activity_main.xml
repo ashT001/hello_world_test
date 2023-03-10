@@ -11,7 +11,7 @@
         android:layout_height="167dp"
         android:rotationX="-8"
         android:rotationY="34"
-        android:text="MY FIRST APPAPPAPAPA"
+        android:text="Hello World- First App"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
